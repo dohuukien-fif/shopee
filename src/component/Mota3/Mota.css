@@ -1,0 +1,731 @@
+.container__Mota{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 20px;
+
+}
+.containet_fulter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.container_fulter1{
+flex: 1.8  ;
+margin-left: -100px;
+}
+.image-Mota{
+    margin: auto;
+    margin-left: 200px;
+  
+}
+.container_fulter2{
+flex: 1.5;
+}
+.icon_m{
+    color: #ffbc59;
+}
+.add{
+
+}
+.edit,.cartss{
+    background: black;
+    color: white;
+    width: 186px;
+    height: 44px;
+    margin-bottom: 25px;
+    border: 0.003em solid black;
+}
+.edit:hover,.cartss:hover{
+    background: white;
+    color: black;
+}
+.cartss{
+    margin-left: 10px;
+}
+/**/
+.dnescriptio2{
+    border: 1px solid gray;
+
+
+}
+.dnescriptio2-2{
+   float: left;
+   border: 1px solid gray;
+   margin-top: -20px;
+   width: 240px;
+}
+.descriptions{
+    display: flex;
+   
+}
+.description1{
+    flex: 1;
+    margin-top: -10px;
+}
+.description2{
+    margin-left: 20px;
+    width: 238px;
+}
+.description2-2_2{
+    border-bottom: 1px solid gray;
+
+}
+.description2-2_2 > img{
+    margin-top: 26px;
+    margin-right: 10px;
+}
+.description2-2_2 > span{
+  
+    margin-right: 10px;
+}
+.description2-2_3 >span {
+    font-size: 12.5px;
+    border-bottom: 1px solid gray;
+   padding-top: 20px;
+}
+.description2-2_3 > p{
+
+
+}
+.description2-2_3 > img{
+    font-size: 12px;
+    margin-top: 13px;
+    margin-right: 10px;
+}
+
+.icon_des{
+    font-size:12px ;
+    width: 15px;
+    height: 15px;
+}
+.btn-see{
+    width: 90%;
+    margin-left: 10px;
+height: 42px;
+margin-top: 15px;
+margin-bottom: 10px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+
+}
+.title-Mota{
+    max-width: 1200px;
+    margin: auto;
+  
+}
+.title-Mota > span{
+    max-width: 1200px;
+    margin: auto;
+    font-size: 13px;
+  
+}
+.title-Motas{
+    max-width: 1200px;
+    margin: auto;
+  font-weight: 600;
+}
+.title-Motas > span{
+    max-width: 1200px;
+    margin: auto;
+    font-size: 13px;
+
+  float: left;
+}
+.title-Motas{
+   
+    font-style: italic;
+      text-align: center;
+      font-family: Georgia,Utopia,'Times New Roman',Times,serif,sans-serif!important;
+  }
+.contrac{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.add{
+    display: flex;
+}
+.fulter3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.price-des{
+    font-size: 31px  ;
+    color: #fe302e;
+    font-weight: 600;
+    font-family: Georgia,Sans-serifrif;
+}
+.price-dess{
+    font-size: 21px  ;
+    color: #aaa;
+    text-decoration: line-through;
+}
+.information-des{
+    display: block;
+}
+ .informa{
+ margin-top: -15px;
+}
+.informas{
+    color: gray;
+    margin-right: 15px;
+  
+}
+.see-information{
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+.tranfor{
+    margin-left: 70px;
+}
+.share{
+    text-align: center;
+   
+}
+.share > span{
+ font-size: 15px;
+ text-transform: uppercase;
+ font-weight: 700;
+ 
+   
+}
+.share-icon{
+margin-left: 8px;
+font-size: 30px;
+}
+.image-Mota{
+    width: 400px;
+    height: 439px;
+}
+/**/
+.foucus_des{
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+border-bottom: 1px solid rgb(211, 208, 208);
+}
+
+.foucus-fulter{
+    color: #fe302e;
+
+}
+.foucus-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.foucus-content1{
+    display: flex;
+}
+.foucus-content1 >img{
+width: 90px;
+height: 100px;
+
+}
+.img-deta{
+    width: 85px;
+    height: 80px;
+    border: 0.5px solid rgb(231, 225, 225);
+}
+.foucus-content2{
+    margin-top: 10px;
+    font-family: FuraCode Nerd Font, -apple-system, "system-ui", BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, "sans-serif", Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+}
+.foucus-content2 > span{
+    font-size: 12.2px;
+}
+.foucus-content2 > span >a{
+    font-size: 12.2px;
+}
+.foucus-content3-3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+}
+.price-foucus{
+    color:#d80d0d ;
+    font-size: 13px;
+    font-weight: 600;
+}
+.icon1{
+    margin-top: 30px;
+}
+.foucus-content2-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.edits{
+   background: white;
+    color: black;
+    width: 186px;
+    height: 44px;
+    margin-bottom: 25px;
+    border: 0.003em solid black;
+}
+.edits:hover{
+background: black;
+color: white;
+}
+.price-foucuss{
+    font-size: 18px;
+    font-weight: 600;
+    color:#d80d0d ;
+}
+/**/
+.foucus_end{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: auto;
+    overflow: hidden;
+z-index: -1;
+} 
+
+.foucus_end1{
+    flex: 2.8;
+    z-index: 1000;
+   
+}
+.foucus_end2{
+    flex: 1;
+    margin-top: -2720px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-Mu{
+    flex: 1;
+    margin-top: -2500px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-fashing{
+    flex: 1;
+    margin-top: -2250px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-giay{
+    flex: 1;
+    margin-top: -1930px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-kinh{
+    flex: 1;
+    margin-top: -2300px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-hoa{
+    flex: 1;
+    margin-top: -3100px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-tui{
+    flex: 1;
+    margin-top: -3100px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-watch{
+    flex: 1;
+    margin-top: -590px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+.foucus_end2-pham{
+    flex: 1;
+    margin-top: -3400px;
+
+  margin-left: 30px;
+  overflow: hidden;
+}
+
+
+
+/**/
+.activetab{
+    background: #e1e1e1;
+    color: black;
+}
+.activeContent{
+    display: block;
+}
+.container-tab{
+    display: flex;
+    
+}
+
+/**/
+
+  .active-tabs  {
+    background: #e1e1e1;
+    border-bottom: 1px solid transparent;
+  }
+  button {
+    border: none;
+    
+  }
+  .content-tabs {
+    flex-grow : 1;
+  }
+  .content {
+    background: #e1e1e1;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  
+
+
+  }
+  .content h2 {
+    padding: 0px 0 5px 0px;
+  }
+  .content hr {
+    width: 100px;
+    height: 2px;
+    background: #222;
+    margin-bottom: 5px;
+  }
+  .content p {
+    width: 100%;
+    height: 100%;
+  }
+  .active-content {
+    display: block;
+
+  }
+  /*Tab*/
+  .image_tab{
+      width: 700px;
+      height: 650px;
+      margin-left: 80px;
+      border: none;
+     
+  }
+  .kk{
+      margin: auto;
+      margin-left: 100px;
+  }
+  .content >p{
+    font-family: FuraCode Nerd Font, -apple-system, "system-ui", BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, "sans-serif", Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol !important;
+  }
+  .table>tbody{
+      border: 1px solid gray;
+  }
+ .checkss {
+      width: 500px;
+      
+      height: 1px;
+      border: 1px solid gray;
+  }
+  .foucus-tab{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .btn-tab{
+      width: 142px;
+      color: white;
+  margin: auto;
+  font-size: 13px;
+  margin-left: 40px;
+      background: #414c5c;
+  }
+  /*form*/
+  .form-information{
+      display: flex;
+      justify-content:center;
+      align-items: center;
+  }
+  #examplePassword{
+     width: 400px;
+
+      margin-right: 20px;
+  }
+  #exampleEmail{
+    width: 400px;
+        height: 30px;
+     margin-right: 20px;
+ }
+ #examplePassword{
+    width: 400px;
+        height: 30px;
+     margin-right: 20px;
+ }
+  #examplename{
+      width: 820px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+  }
+  .laber-form{
+      margin-top: 20px;
+  }
+  .container{
+margin-top: -40px;
+  }
+  .text{
+      margin-top: 30px;
+  }
+  .todo-completed{
+      font-weight: 700px;
+  }
+  .xet{
+      display: flex;
+      justify-content: start;
+      align-items: flex-start;
+  }
+  .xet-1{
+      margin-right: 50px;
+      margin-top: 15px;
+  }
+  .xet-1-1{
+    
+      padding: 15px;
+      border-radius:100%;
+      background: #83b6dd;
+  }
+  .bottom{
+     margin-bottom: 20px;
+  }
+  .add-btn{
+      width: 138px;
+      height: 35px;
+      float: right;
+      background: #414c5c;
+      color: white;
+  }
+  /**/
+  .exampleTexts{
+      margin-top: -35px;
+  }
+  .add-btns{
+    width: 138px;
+    height: 35px;
+    float: right;
+    background: #414c5c;
+    color: white;
+    margin-top: 30px;
+}
+.tab{
+padding: 15px;
+
+}
+.sice-foucu{
+  
+  bottom: 0;
+
+    margin:20px auto;
+    
+} 
+.foucus_end::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  /**/
+  .sice-Motas{
+      border-top: 3px solid black;
+      margin-top: 30px;
+      margin-bottom: 75px;
+  }
+  .slick-slide{
+  
+  }
+  .name-sice{
+      font-weight: 600;
+      font-size: 16px;
+      margin: 10px 0;
+  }
+  .sice-price{
+      color:#fe302e ;
+      font-family: Georgia,Sans-serifrif;
+      font-weight: 700;
+      font-size: 18px;
+  }
+  .sice-price2{
+margin-left: 10px;
+text-decoration: line-through;
+font-size: 14px;
+color: rgb(139, 139, 139);
+  }
+  .slice-img{
+      max-width: 290px;
+  }
+  /*foucusend2*/
+  .foucus_end2-2{
+display: grid;
+grid-template-columns: auto auto auto;
+    border-top: 3px solid black;
+  
+  }
+  .title_foucus_end2{
+      font-weight: 700;
+      font-style: oblique;
+      text-align: center;
+      font-size: 23px;
+      
+      font-family: Georgia,Utopia,'Times New Roman',Times,serif,sans-serif!important;
+  }
+  .title_foucus_end2-3{
+    font-weight: 700;
+    font-style: oblique;
+    text-align: center;
+    font-size: 23px;
+    margin: 30px 0px 20px 0px;
+    font-family: Georgia,Utopia,'Times New Roman',Times,serif,sans-serif!important;
+  }
+  .foucus_end2-2 span a{
+    
+      margin-left: 15px;
+padding: 8px;
+border: 1px solid gray;
+border-radius: 5px;
+text-decoration: none;
+color: black;
+font-size: 12px;
+  }
+  .foucus_end2-2 span{
+      margin-top: 5px;
+      padding-top: 5px;
+  }
+  .title_foucus_end2-3-3{
+    display: flex;
+
+  }
+  .image_fouter2{
+      width: 117px;
+      height: 117px;
+      margin-top: 30px;
+      margin-right: 20px;
+  }
+ .name_foucus2{
+     font-size: 15px;
+     font-weight: 700;
+   
+ }
+ .informatin-foucus2{
+     max-width: 150px;
+ }
+ .custom-price{
+     margin-top: 15px;
+     margin-bottom: 20px;
+  
+ }
+ .price_foucus2{
+     margin-right: 10px;
+     font-size: 14px;
+     color: #d80d0d!important;
+   font: oblique 600 16px/24px Georgia,serif;
+ }
+ .price1-foucus2{
+     font-size: 14px;
+     color: #aaa!important;
+     font-weight: 400;
+     font-family: Georgia,Sans-serifrif;
+    text-decoration: line-through!important;
+ }
+ .information_foucus2-2{
+    
+     font-size: 17px;
+     margin-right: 10px;
+     color: gray;
+     font: 400 17px/1.55 Lato,Arial;
+ }
+
+ .information_foucus2{
+     max-width: 280px;
+     margin:10px auto;
+
+     border-radius: 5px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     font: 400 16px/1.55 Lato,Arial;
+     border: 0.003em solid rgb(214, 214, 214);
+ }
+ .information_foucus2-btn{
+    height: 46px;
+    margin:10px auto;
+ 
+     width: 100%;
+     color: white;
+     background: black;
+ }
+ .information_foucus2-1{
+     max-width: 90%;
+     margin: auto;
+ }
+ .name-foucus2-1{
+    font-weight: 700px;
+color: #444444;
+ }
+ .price_information-foucus2{
+     color: #fe302e;
+     font-size: 25px;
+     font-weight: 600;
+     font-style: italic;
+     font-family: Georgia,Sans-serifrif;
+ }
+ .information-information_foucus2{
+     margin-top: 16px;
+ }
+
+ .title-information-foucus2{
+     margin-top: 17px;
+ }
+ .btn-information-foucus2{
+     margin-bottom: 24px;
+ }
+@media(max-width:650px){
+    .containet_fulter{
+        display: block;
+        
+       
+    }
+    .foucus-content1{
+display: none;
+    }
+    .foucus-content2{
+display: none;
+    }
+    .foucus-content3{
+     display: grid;
+   
+     grid-template-columns: auto auto auto auto ;
+            }
+   .foucus-content{
+display: block;
+   }
+   .foucus_end2{
+       display: none;
+   }
+   .foucus_end1{
+       width: 101%;
+       margin-left: 5px;
+     
+   }
+   .image_tab{
+     margin-left: -80px;
+
+   }
+}
+

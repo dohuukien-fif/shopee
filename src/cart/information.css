@@ -1,0 +1,131 @@
+.information-containers-cart{
+    max-width: 1200px;
+     margin:20px auto;
+     display: flex;
+     justify-content: space-between;
+     align-items: flex-start;
+     
+}
+.information0-22{
+    display: block;
+    margin-top: 30px;
+}
+.position-relative{
+    width: 300px;
+}
+.information-11{
+flex: 2;
+margin-right: 50px;
+}
+.information0-2{
+flex:1 ;
+}
+.container-shiper{
+    border: 1px solid gray;
+}
+.form-cart{
+   
+    display: flex;
+    max-width: 600px;
+    justify-content:center;
+    align-items: center;
+  position: relative;
+  left: 0;
+}
+.form-cart span{
+   padding-top: 30px;
+}
+.kks {
+    box-sizing: content-box;
+    width: 15px;
+    height: 15px;
+   
+    border-radius: 50%;
+  border: 1px solid blue;
+    margin-left: 20px;
+
+  
+    z-index: 100;
+    position: relative;
+}
+.icon-shiper{
+  margin:2px 0px 0px 1.8px;
+    position: absolute;
+    font-size: 11px;
+    background: blue;
+    border-radius: 50%;
+    color: rgb(64, 64, 238);
+    cursor: pointer;
+  }
+  .icon-shiper:hover{
+ 
+      color: rgb(14, 14, 165);
+    }
+.kk{
+    box-sizing: content-box;
+    width: 20px;
+    height: 20px;
+    background: red;
+    border-radius: 50%;
+}
+.gg{
+   max-width: 500px;
+    padding: 8px;
+  
+}
+.checkbox-cart{
+    display: flex
+}
+.checkbox-cart span{
+    margin-left: 10px;
+}
+.payload-shiper{
+    padding: 20px;
+}
+.check-carts{
+    display: flex;
+    cursor: pointer;
+}
+.boder-payload{
+    border: 1px solid gray;
+}
+.payload-container_fulter{
+    padding: 10px;
+}
+.payload-money{
+    font-weight: 600;
+    font-size: 15px;
+color: #444;
+}
+.payload-moneys{
+   color: rgb(124, 124, 124);
+    font-size: 11px;
+    
+}
+.payload-checkbox{
+    margin-left: 10px;
+}
+.form-name{
+    font-weight: 600;
+    font-size: 13px;
+}
+.btn-cart{
+    width: 100%;
+   height: 40px;
+   background: black;
+   color: white;
+}
+.btn-cart span{
+
+   
+}
+.erros{
+    color: #c00;
+    font-style: italic;
+font-size: 13px;
+}
+.currer{
+    color: green;
+    font-style: italic;
+    font-size: 13px;
+}

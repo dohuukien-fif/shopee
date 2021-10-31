@@ -1,0 +1,141 @@
+.container-cart{
+    max-width: 1200px;
+    margin: auto;
+}
+.backg{
+    display: flex;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.backg a{
+   
+    font-size: 14px;
+    color: black;
+}
+.backg a:hover{
+   
+    font-size: 14px;
+    color: blue;
+}
+.Gio{
+    margin-left: 10px;
+    font-size: 14px;
+  
+}
+.cart-title{
+    text-align: center;
+    margin-bottom: 20px;
+   
+}
+.cart-title h4{
+    font-weight: 700;
+    font-style:italic;
+}
+.table-cart {
+    max-width: 150px;
+}
+.table-carts{
+    max-width: 160px;
+    
+    margin-right: 50px;
+   
+}
+.table-carts span{
+  
+    font-weight: 600;
+  font-size: 16px;
+}
+.image-cart{
+   width: 80px;
+   height: 70px;
+  
+}
+.name-cart{
+    font-weight:600 ;
+    max-width: 100px;
+    font-size: 16px;
+  
+}
+.image-cart__cart{
+    margin-right: 100px;
+}
+.ccs{
+    max-width: 10px;
+    margin-left: 80px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.title-cart__title{
+    background: #f8f8f8;
+}
+table{
+    border: none;
+}
+.ll{
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid gray;
+margin-bottom: 10px;
+height: 120px;
+cursor: pointer;
+}
+.ll span{
+   
+}
+.mms{
+margin-left: 50px;
+}
+.mms span{
+    margin-left: 50px;
+    }
+    .cart-ll{
+max-width: 400px;
+display: flex;
+    }
+    .cart-ll span{
+        max-width: 200px;
+       margin-top: 10px;
+       font-size: 14px;
+            }
+    .table-cartss{
+      
+    }
+    .titele_cart-title{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    background: #f8f8f8;
+    padding: 10px;
+
+    }
+    .titele_cart-title span{
+       
+    font-weight: 700;
+    font-size: 14px;
+    }
+    .titele_cart-title3 span{
+        margin-left: 55px;
+      
+    }
+    .titele_cart-title2 span{
+        margin-left: 280px;
+    }
+    .icon_cart{
+        font-size: 20px;
+        cursor: pointer;
+    }
+    .cartrell{
+        float: right;
+        position: absolute;
+        right: 170px;
+        top: 250px;
+    }
+    .information0-2{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        top: 0;
+    }
+    

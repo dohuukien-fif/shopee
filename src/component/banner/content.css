@@ -1,0 +1,174 @@
+
+.container-grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+
+  
+    max-width: 1200px;
+    margin: auto;
+}
+.image__content{
+width: 220px;
+}
+
+.content-price1{
+    margin-left: 10px;
+    color: rgb(163, 159, 159);
+    text-decoration: line-through;
+ font-size: 13px;
+}
+.content-price{
+    color: crimson;
+}
+.link_content{
+    text-decoration: none;
+}
+.content-name{
+    color: black;
+}
+/**/
+.container_foucus-home{
+    max-width: 1200px;
+    margin:50px auto;
+  
+
+}
+.foucus-1{
+text-align: center;
+}
+.foucus2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+  
+}
+@media (max-width:650px) {
+    .container-grid{
+        display: grid;
+        grid-template-columns: auto auto auto ;
+        grid-gap: 10px;
+    
+      
+        max-width: 1200px;
+        margin: auto;
+    }
+    .foucus2{
+        display:block;
+   margin-left: 200px;
+        margin-top: 30px;
+      
+    }
+    .foucus2-2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+.foucus2_1{
+   font-weight: bold;
+}
+.foucus2-2{
+    width: 220px;
+    height: 35px;
+    
+}
+
+.foucus2_2-2 {
+padding: 3px;
+width: 80px;
+height: 35px;
+background: black;
+color: white;
+}
+.icon-homes{
+    font-size: 33px;
+}
+.border{
+    border: 1px solid rgb(7, 6, 6);
+    margin-top: 40px;
+}
+.borders{
+    border: 1px solid rgb(212, 206, 206);
+    margin-top: 10px;
+}
+.foucus2-Content{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+
+    margin-top: 25px;
+    text-decoration: none;
+}
+.foucus-ul li a{
+text-decoration: none;
+color: black;
+font-size: 14px;
+
+}
+.foucus-uls li{
+  margin-bottom: 15px;
+}
+.foucus-ul li:hover{
+text-decoration: underline;
+}
+
+.foucus2-content4{
+    display: flex;
+}
+.foucus-usl{
+    margin-left: 20px;
+text-align:left;
+max-width: 250px;
+}
+.img_foucus2{
+    width: 200px;
+    margin-top: 20px;
+}
+.imgs_foucus2{
+    width: 150px;
+    margin-top: 10px;
+}
+@media all and(max-width:650px) {
+    .foucus2-Content{
+        display: grid;
+        grid-template-columns: auto auto auto auto auto;
+    font-size: 5px;
+        margin-top: 25px;
+        text-decoration: none;
+    }
+}
+
+/**/
+.foucus4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.foucus4-span span{
+    font-size: 11px;
+    margin-right: 18px;
+}
+.foucus-image{
+    display: flex;
+}
+.foucus-image img{
+  width: 60px;
+  margin-right: 10px;
+}
+.foucus-title{
+    font-weight: bold;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 20px;
+    }
+.pages ul{
+    display: flex;
+}
+.pages ul li{
+  margin-right: 10px;
+}
